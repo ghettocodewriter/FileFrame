@@ -2,7 +2,7 @@
 
 ## Overview
 
-Salesforce-LWC-FileFrame is a custom Lightning Web Component that allows you to display related record files directly within a record's Flexipage in Salesforce. This README outlines the steps required to deploy this component to your Salesforce organization.
+Salesforce-LWC-FileFrame is a custom Lightning Web Component that allows you to display related record files directly within a record's Flexipage in Salesforce.
 
 ## Prerequisites
 
